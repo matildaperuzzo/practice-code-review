@@ -10,11 +10,16 @@ Welcome to the digital breakroom. This repository is dedicated to the world’s 
 > Because it has too many bugs and the outdoor lighting is way too high-res.
 
 
+**Why was 6 afraid of 7?**
+> Because 7 ate 9!
+
+
 ### The Scarecrow Joke
 
 **Why did the scarecrow win an award?**
 
 > Because he was outstanding in his field.
+ 
 ---
 
 ### 🤝 How to Contribute
