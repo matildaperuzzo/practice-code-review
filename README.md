@@ -10,8 +10,9 @@ Welcome to the digital breakroom. This repository is dedicated to the world’s 
 > Because it has too many bugs and the outdoor lighting is way too high-res.
 
 ### Cheese Joke
-What does the cheese say then it sees itself in the mirror?
-Halloumi!
+
+**What does the cheese say then it sees itself in the mirror?**
+> Halloumi!
 ---
 
 ### 🤝 How to Contribute
