@@ -13,6 +13,10 @@ Welcome to the digital breakroom. This repository is dedicated to the world’s 
 
 **What does the cheese say then it sees itself in the mirror?**
 > Halloumi!
+### A fish joke 
+
+**Two fish meet**
+> the first say hy , the second where?
 
 **Why was 6 afraid of 7?**
 > Because 7 ate 9!
