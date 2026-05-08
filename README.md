@@ -9,6 +9,10 @@ Welcome to the digital breakroom. This repository is dedicated to the world’s 
 **Why don’t programmers like nature?**
 > Because it has too many bugs and the outdoor lighting is way too high-res.
 
+### A fish joke 
+
+**Two fish meet**
+> the first say hy , the second where?
 
 **Why was 6 afraid of 7?**
 > Because 7 ate 9!
