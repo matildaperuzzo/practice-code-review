@@ -13,6 +13,17 @@ Welcome to the digital breakroom. This repository is dedicated to the world’s 
 
 **What does the cheese say then it sees itself in the mirror?**
 > Halloumi!
+
+**Why was 6 afraid of 7?**
+> Because 7 ate 9!
+
+
+### The Scarecrow Joke
+
+**Why did the scarecrow win an award?**
+
+> Because he was outstanding in his field.
+ 
 ---
 
 ### 🤝 How to Contribute
